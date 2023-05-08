@@ -1,3 +1,7 @@
+<div style="text-align:center">
+  <img src="https://user-images.githubusercontent.com/80035053/236860825-a4d042da-efc2-41c7-bee2-b50ceba304d8.png" alt="example image" />
+</div>
+
 # Eco-Friendly Phone Website
 
 This is a website for selling eco-friendly phones. The website is fully functional using Firebase and built using HTML, JavaScript, CSS, lit-html, and Page.js in Visual Studio Code.
