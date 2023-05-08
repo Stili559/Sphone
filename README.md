@@ -19,7 +19,7 @@ This is a website for selling eco-friendly phones. The website is fully function
 
 ## Live Server<a name="liveserver"></a>
 
-Using this link you can open the website.
+Using this link you can open the [website](https://sites.google.com/view/stilian-learning-journey/home?authuser=0).
 
 ## Home Page<a name="home-page"></a>
 
