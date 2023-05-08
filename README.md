@@ -8,6 +8,7 @@ This is a website for selling eco-friendly phones. The website is fully function
 
 ## Contents
 
+- [Live Server](#liveserver)
 - [Home Page](#home-page)
 - [Login and Register Pop-up](#login-and-register-pop-up)
 - [Support Pop-up](#support-pop-up)
@@ -15,6 +16,10 @@ This is a website for selling eco-friendly phones. The website is fully function
 - [Create a Phone Page](#create-a-phone-page)
 - [Contributing](#contributing)
 - [Contact Me](#contact-me)
+
+## Live Server<a name="liveserver"></a>
+
+Using this link you can open the website.
 
 ## Home Page<a name="home-page"></a>
 
