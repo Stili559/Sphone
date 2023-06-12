@@ -12,6 +12,7 @@ This is a website for selling eco-friendly phones. The website is fully function
 
 ## Contents
 
+- [Usage](#usage)
 - [Home Page](#home-page)
 - [Login and Register Pop-up](#login-and-register-pop-up)
 - [Support Pop-up](#support-pop-up)
@@ -19,6 +20,26 @@ This is a website for selling eco-friendly phones. The website is fully function
 - [Create a Phone Page](#create-a-phone-page)
 - [Contributing](#contributing)
 - [Contact Me](#contact-me)
+
+## Usage<a name="#usage"></a>
+
+### Step 1. Install node-modules
+
+```shell
+npm install
+```
+
+### Step 2. Install lite-server
+
+```shell
+npm i lite-server
+```
+
+### Step 3. Run the project
+
+```shell
+  npm run start
+```
 
 ## Home Page<a name="home-page"></a>
 
