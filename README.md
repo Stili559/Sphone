@@ -38,7 +38,7 @@ npm i lite-server
 ### Step 3. Run the project
 
 ```shell
-  npm run start
+npm run start
 ```
 
 ## Home Page<a name="home-page"></a>
