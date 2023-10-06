@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Stili559/Sphone/assets/80035053/6f58bb0e-4546-4033-b5dd-511057d33022.png" alt="example image" />
-</div>
-
-![Captur1e-removebg-preview](https://github.com/Stili559/Sphone/assets/80035053/6f58bb0e-4546-4033-b5dd-511057d33022)
-
 # Eco-Friendly Phone Website
 
 This is a website for selling eco-friendly phones. The website is fully functional using Firebase and built using HTML, JavaScript, CSS, lit-html, and Page.js in Visual Studio Code.
