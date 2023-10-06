@@ -19,18 +19,6 @@ This is a website for selling eco-friendly phones. The website is fully function
 
 ## Usage<a name="#usage"></a>
 
-### Step 1. Add the repository to your Visual Studio Code.
-
-```shell
-Ecobike website
-```
-
-### Step 1.1. Use the link to acces the site 
-
-```shell
-Ecobike website
-```
-
 ## Home Page<a name="home-page"></a>
 
 The home page features eco-friendly phones for sale, along with information about their features and pricing.
