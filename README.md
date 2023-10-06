@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/80035053/236860825-a4d042da-efc2-41c7-bee2-b50ceba304d8.png" alt="example image" />
+  <img src="https://github.com/Stili559/Sphone/assets/80035053/6f58bb0e-4546-4033-b5dd-511057d33022.png" alt="example image" />
 </div>
+
+![Captur1e-removebg-preview](https://github.com/Stili559/Sphone/assets/80035053/6f58bb0e-4546-4033-b5dd-511057d33022)
 
 # Eco-Friendly Phone Website
 
@@ -23,22 +25,16 @@ This is a website for selling eco-friendly phones. The website is fully function
 
 ## Usage<a name="#usage"></a>
 
-### Step 1. Install node-modules
+### Step 1. Add the repository to your Visual Studio Code.
 
 ```shell
-npm install
+Ecobike website
 ```
 
-### Step 2. Install lite-server
+### Step 1.1. Use the link to acces the site 
 
 ```shell
-npm i lite-server
-```
-
-### Step 3. Run the project
-
-```shell
-npm run start
+Ecobike website
 ```
 
 ## Home Page<a name="home-page"></a>
